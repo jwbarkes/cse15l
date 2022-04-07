@@ -4,6 +4,7 @@
 1. Github
 2. Github Page
 3. Making your own website
+4. Visual studio code
 
 ### A quote from my roommate
 > That doesn't seem too hard
@@ -12,7 +13,7 @@
 - Another list with dashes now
 - Pretty cool
 
-**Random bold text**
+**Live changes are cool**
 
 `System.out.println("Hellow World!)`
 
