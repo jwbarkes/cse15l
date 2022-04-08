@@ -21,6 +21,8 @@
 
 ---
 
-[Lab Report 1 Week 2 Screenshot](https://jwbarkes.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Lab Report 1 Longer Text](https://jwbarkes.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+[Lab Report 1](lab-report-1-week-2.html)
 
 ![Random image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
