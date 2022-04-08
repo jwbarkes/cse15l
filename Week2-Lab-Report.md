@@ -42,9 +42,8 @@ This short tutorial will show you the basics of ieng6.
 
 > `SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local`
 
-> `The key's randomart image is:`
-
-The key should look like: 
+> `The key's randomart image is:` *The key should look like:*
+ 
 ![Key Ary](https://user-images.githubusercontent.com/103162560/162527156-7a0ae02c-6822-4dc0-bacb-0ecce26427a3.jpg)
 
 2. If you are on windows you will need to do bonus steps found at [Windows OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
