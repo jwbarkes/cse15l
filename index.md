@@ -9,11 +9,13 @@
 ### A quote from my roommate
 > That doesn't seem too hard
 
+> You can figure it out
+
 *Time for another list*
 - Another list with dashes now
 - Pretty cool
 
-**Live changes are cool**
+**Live changes lets me see what I'm doing**
 
 `System.out.println("Hellow World!)`
 
