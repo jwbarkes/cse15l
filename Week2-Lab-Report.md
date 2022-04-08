@@ -23,6 +23,7 @@ This short tutorial will show you the basics of ieng6.
 
 ### Step 5: Setting an ssh key
 1. On your client insert the code:
+
 > `ssh-keygen`
 
 > `Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa`
@@ -46,6 +47,7 @@ This short tutorial will show you the basics of ieng6.
 2. If you are on windows you will need to do bonus steps found at [Windows OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
 
 3. Now we have to copy the public key to the `ssh` directory of your remote account. So follow the code below:
+
 > `ssh cs15lsp22zz@ieng6.ucsd.edu` (enter password when prompted)
 
 > `mkdir .ssh`
