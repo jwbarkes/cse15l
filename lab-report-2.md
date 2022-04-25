@@ -3,6 +3,8 @@
 ## Bugfix 1: Image vs Link
 Code Change:
 ![](https://user-images.githubusercontent.com/103162560/165028539-6f8a028b-ca7e-49e8-ac90-148a9a177e05.jpg)
+
+File:
 [Image vs Link File](https://github.com/jwbarkes/markdown-parser/blob/main/test-file3.md)
 
 Symptom Output:
@@ -14,6 +16,8 @@ ___
 ## Bugfix 2: Infinite Loop
 Code Change:
 ![](https://user-images.githubusercontent.com/103162560/165028582-56d59168-f6d7-4671-ba6d-41d10f3ca5f6.jpg)
+
+File:
 [Infinite Loop File](https://github.com/jwbarkes/markdown-parser/blob/main/test-file2.md)
 
 Symptom Output:
@@ -24,6 +28,8 @@ ___
 ## Bugfix 3: Multiple Paranthesis
 Code Change:
 ![](https://user-images.githubusercontent.com/103162560/165028608-a1239f7b-b3ae-42d9-bfb5-e7b003d3914c.jpg)
+
+File:
 [Multiple Paranthesis File](https://github.com/jwbarkes/markdown-parser/blob/main/test-file6.md)
 
 Symptom Output:
