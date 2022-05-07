@@ -1,10 +1,16 @@
 # Lab Report 3
 ## Group Task 1
 SSH Config File & Edit: 
+<img width="677" alt="Screen Shot 2022-05-07 at 3 23 13 PM" src="https://user-images.githubusercontent.com/103162560/167273697-691c7867-099a-40ac-a556-b21edcd2d4fd.png">
+
 
 Logging into SSH:
+<img width="610" alt="Screen Shot 2022-05-07 at 3 23 47 PM" src="https://user-images.githubusercontent.com/103162560/167273701-431ac5e4-dfb1-435b-be63-e02beb977118.png">
+
 
 SCP Copying File:
+<img width="624" alt="Screen Shot 2022-05-07 at 3 24 15 PM" src="https://user-images.githubusercontent.com/103162560/167273708-386cd6db-9687-48f0-bf78-4a8cc3986735.png">
+
 
 ---
 ## Group Task 2
