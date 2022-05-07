@@ -1,6 +1,6 @@
 # Lab Report 3
 ## Group Task 1
-SSH Config File & Edit:
+SSH Config File & Edit: 
 
 Logging into SSH:
 
