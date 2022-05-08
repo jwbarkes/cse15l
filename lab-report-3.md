@@ -19,7 +19,11 @@ SCP Copying File:
 ## Group Task 2
 Public Key on Github:
 
+<img width="1427" alt="Screen Shot 2022-05-07 at 5 42 51 PM" src="https://user-images.githubusercontent.com/103162560/167284374-51b313d5-708e-436d-8b46-8fa7cc7c5b07.png">
+
 Private Key:
+
+<img width="452" alt="Screen Shot 2022-05-07 at 5 43 13 PM" src="https://user-images.githubusercontent.com/103162560/167284383-85d2a2a2-d0fa-485e-88d9-baba87862ece.png">
 
 Git Commands:
 
