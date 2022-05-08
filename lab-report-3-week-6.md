@@ -1,5 +1,7 @@
 # Lab Report 3
-## Group Task 1
+## Group Task 1: Streamline SSH Configuration
+> Typing in the whole cs15l username can be lengthy to write, so this task creates a nickname to use instead. This nickname can be used for logging into the remote server, scp files over, and anything that requires the old username.
+
 SSH Config File & Edit: 
 
 <img width="677" alt="Screen Shot 2022-05-07 at 3 23 13 PM" src="https://user-images.githubusercontent.com/103162560/167273697-691c7867-099a-40ac-a556-b21edcd2d4fd.png">
@@ -16,7 +18,9 @@ SCP Copying File:
 
 
 ---
-## Group Task 2
+## Group Task 2: Set up Github Access from ieng6
+> On our remote accounts, we used to only be able to git pull, status, and clone. This task allows for us to be able to make changes to a file and push it to github all from the command line.
+
 Public Key on Github:
 
 <img width="1427" alt="Screen Shot 2022-05-07 at 5 42 51 PM" src="https://user-images.githubusercontent.com/103162560/167284374-51b313d5-708e-436d-8b46-8fa7cc7c5b07.png">
@@ -35,7 +39,9 @@ Link:
 https://github.com/jwbarkes/skillDemo1/commit/31d17d53b64d1b66b97d4e5ab94271f79fb3c656
 
 ---
-## Group Task 3
+## Group Task 3: Group Choice 3 – Copy Whole Directories with scp -r
+> We used to only be able to scp one file at a time, but recently we have been using whole directories. This task allows for us to use the recurcive command -r to copy a whole directory over.
+
 Copying whole directory:
 
 <img width="622" alt="Screen Shot 2022-05-07 at 3 10 28 PM" src="https://user-images.githubusercontent.com/103162560/167273395-d91a288b-708b-4c9b-a18c-63994c9dc18a.png">
