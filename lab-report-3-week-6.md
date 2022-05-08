@@ -25,6 +25,8 @@ Private Key:
 
 <img width="452" alt="Screen Shot 2022-05-07 at 5 43 13 PM" src="https://user-images.githubusercontent.com/103162560/167284383-85d2a2a2-d0fa-485e-88d9-baba87862ece.png">
 
+<img width="447" alt="Screen Shot 2022-05-08 at 1 17 54 AM" src="https://user-images.githubusercontent.com/103162560/167287793-975f292a-f97f-4790-8e5b-9e2620b53147.png">
+
 Git Commands:
 
 <img width="824" alt="Screen Shot 2022-05-08 at 12 45 28 AM" src="https://user-images.githubusercontent.com/103162560/167286808-e50374a2-d0d7-4081-b862-f4f7f9aef5db.png">
