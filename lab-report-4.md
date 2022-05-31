@@ -23,7 +23,7 @@
 
 
 ### Potential Fixes:
-For my Markdown parser there does seem to be a simple fix. My code looks for the `](` combination but with if statements checking the line that this combo is on, my code can avoid the mistake of catching url.com. That fix will also hopefully catch the ucsd.edu if implemented correctly.
+For my Markdown parser there does seem to be a simple fix. My code looks for the `](` combination but with an if statement that checks for the special markdown keys, my code can avoid the mistake of catching url.com. That fix will also hopefully catch the ucsd.edu if implemented correctly.
 
 
 ---
@@ -46,7 +46,7 @@ For my Markdown parser there does seem to be a simple fix. My code looks for the
 
 
 ### Potential Fixes:
-While there does not seem to be a simple fix for catching example.com, the error with the return of a.com(()) can be fixed. This is fixed by editing the return by creating a counter of how many open paranthesis the program finds before finding the first closed paranthesis, and will skip over as many closed paranthesis as bonus open paranthesis are found.
+While there does not seem to be a simple fix for catching example.com, the error with the return of a.com(()) can be fixed. This is fixed by editing the return by creating a counter of how many open paranthesis the program finds before finding the first closed paranthesis, and will skip over the closed paranthesis depending on how many open paranthesis are found.
 
 
 ---
@@ -67,4 +67,4 @@ While there does not seem to be a simple fix for catching example.com, the error
 
 
 ### Potential Fixes:
-One potential fix comes from adding an if statement that checks if the title or link contains a manual change in line, such as pressing enter. While I do not know the exact code that would find a manual line change, this would solve the problems with twitter.com as the code would recognize that there is a manual line change in the title. The github link would get fixed as the code would see the manual line change in the link and would not return everything up until the closed paranthesis many lines down.
+One potential fix comes from adding an if statement that checks if the title or link contains a manual change in line, such as pressing enter. While I do not know the exact code that would find a manual line change, this would solve the problems with twitter.com as the code would recognize that there is a manual line change in the title. The github link would get fixed as the code would see the manual line change in the link and would not return anything.
