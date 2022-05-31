@@ -55,7 +55,6 @@
 
 
 ### My Results:
-<img width="951" alt="My Test 3" src="https://user-images.githubusercontent.com/103162560/171091129-48c698dc-bf7f-43a2-869c-05944751108d.png">
 
 
 ### Their Results:
