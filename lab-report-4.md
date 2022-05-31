@@ -22,8 +22,8 @@
 <img width="616" alt="Their Test 1" src="https://user-images.githubusercontent.com/103162560/171091170-b0e74afe-232a-4282-8cf2-2c882a2e31d3.png">
 
 
-### Questions:
-
+### Potential Fixes:
+> For my Markdown parser there does seem to be a simple fix. My code looks for the `](` combination but with if statements checking the line that this combo is on, my code can avoid the mistake of catching url.com. That fix will also hopefully catch the ucsd.edu if implemented correctly.
 ---
 ## Test 2:
 ### Intended Outcome
@@ -43,7 +43,8 @@
 <img width="598" alt="Their Test 2" src="https://user-images.githubusercontent.com/103162560/171091191-295c8a89-e580-4660-8471-c053548f54b1.png">
 
 
-### Questions:
+### Potential Fixes:
+> While there does not seem to be a simple fix for catching example.com, the error with the return of a.com(()) can be fixed. This is fixed by editing the return by creating a counter of how many open paranthesis the program finds before finding the first closed paranthesis, and will skip over as many closed paranthesis as bonus open paranthesis are found.
 ---
 ## Test 3:
 ### Intended Outcome
@@ -61,4 +62,5 @@
 <img width="846" alt="Their Test 3" src="https://user-images.githubusercontent.com/103162560/171091201-b5bebbf7-ef0a-43cf-b5c4-0b66bbe7648e.png">
 
 
-### Questions:
+### Potential Fixes:
+> 
