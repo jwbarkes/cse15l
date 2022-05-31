@@ -63,4 +63,4 @@
 
 
 ### Potential Fixes:
-> 
+> One potential fix comes from adding an if statement that checks if the title or link contains a manual change in line, such as pressing enter. While I do not know the exact code that would find a manual line change, this would solve the problems with twitter.com as the code would recognize that there is a manual line change in the title. The github link would get fixed as the code would see the manual line change in the link and would not return everything up until the closed paranthesis many lines down.
