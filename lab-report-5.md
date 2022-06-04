@@ -5,6 +5,7 @@ I found my failed tests by using vim diff on the results and manually scrolling 
 
 ---
 ## Link to test 503:
+[Test 503](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/503.md)
 
 ## Who's Correct:
 Both implementations are incorrect for different reasons. My implementation fails due to returning multiple things when only one link is present, and the other implementation fails due to not returning anything.
@@ -21,6 +22,7 @@ The problem with my code comes from what is being added to the final arraylist t
 
 ---
 ## Link to test 486:
+[Test 486](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/486.md)
 
 ## Who's Correct:
 The provided implementation was correct as it did not return a link, but my implementation failed this test by returning what is in the paranthesis.
