@@ -18,6 +18,7 @@ Both implementations are incorrect for different reasons. My implementation fail
 
 ## Whats Wrong with the Code:
 The problem with my code comes from what is being added to the final arraylist that is being returned. This occurs within the getLinks method as that is where links are added to the arraylist. The problem seems to come from the quotation marks as each return statement features one less `'` then the previous.
+
 <img width="615" alt="Screen Shot 2022-06-03 at 8 44 21 PM" src="https://user-images.githubusercontent.com/103162560/171981301-74b060a1-442b-44ab-8547-2eeac063710d.png">
 
 ---
@@ -35,4 +36,5 @@ The provided implementation was correct as it did not return a link, but my impl
 
 ## Whats Wrong with the Code:
 The bug results from the inclusion of `/` in the link as slashes represent file paths. Thus I believe that due to the file path not being properly set up in the link section, the entire link breaks and should result in no return. However, my markdown parser looks for `](` and returns everything up until the next closed paranthesis without caring for what is inside of those paranthesis.
+
 <img width="448" alt="Screen Shot 2022-06-03 at 8 51 55 PM" src="https://user-images.githubusercontent.com/103162560/171981311-87b6ca0b-8775-4df5-bfcb-01cf5cee5317.png">
